@@ -131,3 +131,8 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 2525
 DEFAULT_FROM_EMAIL = 'hkshakib@gmail.com'
+
+
+ADMINS =[
+    ('Shakib', 'shakib@gmail.com')
+]
